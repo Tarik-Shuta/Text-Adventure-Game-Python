@@ -2,14 +2,14 @@
 import random
 import sys
 
-# Global variables to track game state
+
 has_weapon = False
 has_sword = False
 gave_beggar_money = False
 has_ahmed = False
 has_key = False
 
-# Dictionary to hold game text loaded from JSON
+
 game_text = {}
 
 def main():
