@@ -13,6 +13,8 @@ Sarajevo Shadows is an interactive text adventure game written in Python. Player
   *   Old Town Tavern
   *   City Hall
 - Strategic elements such as weapon acquisition and ally recruitment
+- Dynamic text loading from a JSON file for easy content updates
+
 # Installation
 To run Sarajevo Shadows on your local machine, follow these steps:
 
@@ -20,8 +22,10 @@ Clone the repository or download the game files.
 
 Open the project folder in your preferred code editor (e.g., VS Code, PyCharm).
 
-Install Python (if you don’t have it yet)
-Ensure Python is added to your system’s PATH during installation.  
+Install Python (if you don’t have it yet) and ensure Python is added to your system’s PATH during installation.  
+
+Ensure `gameData.json` is in the same directory as `projektPL.py`.
+
 # How to Play
 Start the game by running python Game.py.  
 When prompted, enter your name to begin your journey.  
@@ -31,6 +35,8 @@ Make strategic decisions throughout your journey.
 Weapons: Finding and acquiring weapons can help in confrontations.  
 Allies: Making friends can provide crucial support in difficult situations.  
 Choices: Each decision affects your chances of survival and success.  
+Dynamic Text: The game reads descriptions and dialogue from `GameData.json`, making it easy to modify or expand the game’s content.
+
 # Tips for Success
 Plan ahead, think about the consequences of each choice.   
 Avoid rushing into confrontations without preparation.  
