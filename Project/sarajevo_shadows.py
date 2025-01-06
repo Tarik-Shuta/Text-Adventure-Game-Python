@@ -23,7 +23,7 @@ def main():
 
 def load_game_data():
     try:
-        with open('GameData.json', 'r') as file:
+        with open('GameData.json', 'r', encoding='utf-8') as file:
             global game_text
             game_text = json.load(file)
     except Exception as ex:
