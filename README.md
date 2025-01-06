@@ -31,6 +31,7 @@ Start the game by running python `sarajevo_shadows.py`.
 When prompted, enter your name to begin your journey.  
 Follow the on-screen prompts and enter your choices when presented with options (e.g., "1" or "2").  
 Make strategic decisions throughout your journey.
+Replay the game after completion to explore different story paths.
 # Game Mechanics
 Weapons: Finding and acquiring weapons can help in confrontations.  
 Allies: Making friends can provide crucial support in difficult situations.  
