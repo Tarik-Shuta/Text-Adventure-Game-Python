@@ -24,10 +24,10 @@ Open the project folder in your preferred code editor (e.g., VS Code, PyCharm).
 
 Install Python (if you don’t have it yet) and ensure Python is added to your system’s PATH during installation.  
 
-Ensure `gameData.json` is in the same directory as `projektPL.py`.
+Ensure `gameData.json` is in the same directory as `sarajevo_shadows.py`.
 
 # How to Play
-Start the game by running python Game.py.  
+Start the game by running python `sarajevo_shadows.py`.  
 When prompted, enter your name to begin your journey.  
 Follow the on-screen prompts and enter your choices when presented with options (e.g., "1" or "2").  
 Make strategic decisions throughout your journey.
@@ -35,7 +35,7 @@ Make strategic decisions throughout your journey.
 Weapons: Finding and acquiring weapons can help in confrontations.  
 Allies: Making friends can provide crucial support in difficult situations.  
 Choices: Each decision affects your chances of survival and success.  
-Dynamic Text: The game reads descriptions and dialogue from `GameData.json`, making it easy to modify or expand the game’s content.
+Dynamic Text: The game reads descriptions and dialogue from `gameData.json`, making it easy to modify or expand the game’s content.
 
 # Tips for Success
 Plan ahead, think about the consequences of each choice.   
