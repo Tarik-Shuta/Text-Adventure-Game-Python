@@ -36,7 +36,6 @@ Replay the game after completion to explore different story paths.
 Weapons: Finding and acquiring weapons can help in confrontations.  
 Allies: Making friends can provide crucial support in difficult situations.  
 Choices: Each decision affects your chances of survival and success.  
-Dynamic Text: The game reads descriptions and dialogue from `gameData.json`, making it easy to modify or expand the game’s content.
 
 # Tips for Success
 Plan ahead, think about the consequences of each choice.   
