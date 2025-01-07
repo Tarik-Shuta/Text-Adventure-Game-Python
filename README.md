@@ -10,7 +10,7 @@ Sarajevo Shadows is an interactive text adventure game written in Python. Player
 - Key locations in Sarajevo, including:
   *   Market Square
   *   Latin Bridge
-  *   Old Town Tavern
+  *   Sebilj
   *   City Hall
 - Strategic elements such as weapon acquisition and ally recruitment
 - Dynamic text loading from a JSON file for easy content updates
